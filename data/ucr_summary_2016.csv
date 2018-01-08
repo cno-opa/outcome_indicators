@@ -1,0 +1,4 @@
+population,murder_and_nonnegligent_manslaughter,violent_crime,property_crime,city_count,benchmark,murder_rate,property_crime_rate,violent_crime_rate
+4574174,882,46374,194076,9,Benchmark (incl. New Orleans),98,4242.864394751927,1013.8223862931319
+4176966,708,42125,178505,8,Benchmark (excl. New Orleans),88.5,4273.556452219147,1008.5071317315009
+397208,174,4249,15571,1,New Orleans,174,3920.112384443415,1069.7166220217114
